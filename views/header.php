@@ -1,5 +1,5 @@
 <header>
-    <h1>PET - TELE</h1>
+    <h1>Upload arquivo</h1>
 </header>
 
 <nav>

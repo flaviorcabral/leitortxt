@@ -9,15 +9,15 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>PET - Engenharia de Telecomunicações da UFF</title>
-        <link href="../css/estilo.css" rel="stylesheet" type="text/css" />
+        <title>Upload de Arquivos</title>
+        
     </head>
     <body>
         <div class="centralizado" id="conteudo">
             <?php include 'header.php' ?>
             <section>
 
-                <h1>Bem-vindo ao conversor de arquivos tabelas Lua</h1>
+                <h1>Bem-vindo ao conversor de arquivos</h1>
 
                 <?php include 'formulario.php'; ?>
 

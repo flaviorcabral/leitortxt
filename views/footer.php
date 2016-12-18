@@ -1,3 +1,3 @@
 <footer>
-    Desenvolvido por (SEU NOME AQUI)
+    Ano 2016
 </footer>
